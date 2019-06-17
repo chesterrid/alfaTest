@@ -47,4 +47,10 @@ public class BaseSteps extends Base {
     }
 
 
+    public static WebDriver changeTab1(String oldHandler, WebDriver driver) {
+        Set<String> listHandler = driver.getWindowHandles();
+        listHandler.remove(oldHandler);
+        return driver.switchTo().window(listHandler.iterator().next());
+    }
+
 }
