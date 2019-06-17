@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/StepDefs/MyStepdefsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
+            <state relative-caret-position="463">
+              <caret line="142" column="9" lean-forward="true" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1560794161295" expanded="true" signature="31:844" ph="..." />
@@ -704,8 +704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Tests/StepDefs/MyStepdefsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        <state relative-caret-position="463">
+          <caret line="142" column="9" lean-forward="true" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1560794161295" expanded="true" signature="31:844" ph="..." />
