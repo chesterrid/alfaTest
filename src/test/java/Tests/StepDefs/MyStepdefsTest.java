@@ -145,6 +145,5 @@ public class MyStepdefsTest extends RunTest {
         aaa = "qwrf1";
         aaa.charAt(1);
     }
-
-
+    
 }
