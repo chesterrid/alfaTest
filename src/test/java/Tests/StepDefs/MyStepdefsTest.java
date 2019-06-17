@@ -140,5 +140,11 @@ public class MyStepdefsTest extends RunTest {
         aaa.charAt(1);
     }
 
+    @Test
+    public void tedt1 (String aaa){
+        aaa = "qwrf1";
+        aaa.charAt(1);
+    }
+
 
 }
